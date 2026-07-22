@@ -4,7 +4,29 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-06-10)
+## Unreleased (2026-07-22)
+
+<section class="features">
+
+### Features
+
+-   [`a82a225`](https://github.com/stdlib-js/stdlib/commit/a82a2255378b0800f8eca51b43bd51a9ac9ab4c2) - add C implementation for `stats/base/dists/signrank/cdf` [(#4482)](https://github.com/stdlib-js/stdlib/pull/4482)
+
+</section>
+
+<!-- /.features -->
+
+<section class="issues">
+
+### Closed Issues
+
+This release closes the following issue:
+
+[#3883](https://github.com/stdlib-js/stdlib/issues/3883)
+
+</section>
+
+<!-- /.issues -->
 
 <section class="commits">
 
@@ -12,6 +34,7 @@
 
 <details>
 
+-   [`a82a225`](https://github.com/stdlib-js/stdlib/commit/a82a2255378b0800f8eca51b43bd51a9ac9ab4c2) - **feat:** add C implementation for `stats/base/dists/signrank/cdf` [(#4482)](https://github.com/stdlib-js/stdlib/pull/4482) _(by Dev Goel, Neeraj Pathak, Philipp Burckhardt, stdlib-bot)_
 -   [`bd60a20`](https://github.com/stdlib-js/stdlib/commit/bd60a209ca4b0989663edbbc591bc7da80294827) - **build:** update R version to 4.2.0 in lint workflows [(#11262)](https://github.com/stdlib-js/stdlib/pull/11262) _(by Mara Averick)_
 
 </details>
@@ -24,9 +47,12 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 4 people contributed to this release. Thank you to the following contributors:
 
+-   Dev Goel
 -   Mara Averick
+-   Neeraj Pathak
+-   Philipp Burckhardt
 
 </section>
 
