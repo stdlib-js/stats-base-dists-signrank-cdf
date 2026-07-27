@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-07-22)
+## Unreleased (2026-07-27)
 
 <section class="features">
 
@@ -34,6 +34,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`4b25135`](https://github.com/stdlib-js/stdlib/commit/4b2513556546cf3dfcc8fb9adb61d5dccaedbcbe) - **chore:** clean-up [(#13626)](https://github.com/stdlib-js/stdlib/pull/13626) _(by Philipp Burckhardt)_
 -   [`a82a225`](https://github.com/stdlib-js/stdlib/commit/a82a2255378b0800f8eca51b43bd51a9ac9ab4c2) - **feat:** add C implementation for `stats/base/dists/signrank/cdf` [(#4482)](https://github.com/stdlib-js/stdlib/pull/4482) _(by Dev Goel, Neeraj Pathak, Philipp Burckhardt, stdlib-bot)_
 -   [`bd60a20`](https://github.com/stdlib-js/stdlib/commit/bd60a209ca4b0989663edbbc591bc7da80294827) - **build:** update R version to 4.2.0 in lint workflows [(#11262)](https://github.com/stdlib-js/stdlib/pull/11262) _(by Mara Averick)_
 
